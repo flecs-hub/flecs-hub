@@ -25,7 +25,8 @@
             "flecs.systems.civetweb": "flecs-hub/flecs-systems-civetweb",
             "flecs.systems.admin": "flecs-hub/flecs-systems-admin",
             "flecs.systems.sdl2": "flecs-hub/flecs-systems-sdl2",
-            "flecs.systems.physics": "flecs-hub/flecs-systems-physics"
+            "flecs.systems.physics": "flecs-hub/flecs-systems-physics",
+            "flecs.systems.prometheus": "flecs-hub/flecs-systems-prometheus"
         }
     }
 }
