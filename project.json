@@ -13,20 +13,24 @@
         "repositories": {
             "flecs": "SanderMertens/flecs",
             "flecs.hub": "flecs-hub/flecs-hub",
-            "flecs.math": "flecs-hub/flecs-math",
-            "flecs.components.dds": "flecs-hub/flecs-components-dds",
-            "flecs.components.meta": "flecs-hub/flecs-components-meta",
-            "flecs.components.http": "flecs-hub/flecs-components-http",
-            "flecs.components.graphics": "flecs-hub/flecs-components-graphics",
-            "flecs.components.transform": "flecs-hub/flecs-components-transform",
+            "flecs.meta": "flecs-hub/flecs-meta",
+            "flecs.json": "flecs-hub/flecs-json",
+            "flecs.rest": "flecs-hub/flecs-rest",
+            "flecs.monitor": "flecs-hub/flecs-monitor",
+            "flecs.player": "flecs-hub/flecs-player",
+            "flecs.dash": "flecs-hub/flecs-dash",
             "flecs.components.geometry": "flecs-hub/flecs-components-geometry",
-            "flecs.components.physics": "flecs-hub/flecs-components-physics",
+            "flecs.components.graphics": "flecs-hub/flecs-components-graphics",
+            "flecs.components.gui": "flecs-hub/flecs-components-gui",
+            "flecs.components.http": "flecs-hub/flecs-components-http",
             "flecs.components.input": "flecs-hub/flecs-components-input",
+            "flecs.components.physics": "flecs-hub/flecs-components-physics",
+            "flecs.components.transform": "flecs-hub/flecs-components-transform",
             "flecs.systems.civetweb": "flecs-hub/flecs-systems-civetweb",
-            "flecs.systems.admin": "flecs-hub/flecs-systems-admin",
-            "flecs.systems.sdl2": "flecs-hub/flecs-systems-sdl2",
             "flecs.systems.physics": "flecs-hub/flecs-systems-physics",
-            "flecs.systems.prometheus": "flecs-hub/flecs-systems-prometheus"
+            "flecs.systems.sdl2": "flecs-hub/flecs-systems-sdl2",
+            "flecs.systems.sokol": "flecs-hub/flecs-systems-sokol",
+            "flecs.systems.transform": "flecs-hub/flecs-systems-transform"
         }
     }
 }
